@@ -1,0 +1,10 @@
+pvporcupine
+pyaudio
+numpy
+SpeechRecognition
+pyttsx3
+pyautogui
+requests
+plyer
+python-dotenv
+psutil
