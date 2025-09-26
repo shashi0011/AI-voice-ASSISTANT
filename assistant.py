@@ -54,7 +54,7 @@ def listen():
 
 # === OpenRouter + DeepSeek integration ===
 def ask_openrouter(question):
-    OPENROUTER_API_KEY = "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"
+    OPENROUTER_API_KEY = your API KEY"
 
     try:
         response = requests.post(
@@ -317,3 +317,4 @@ if __name__ == "__main__":
     listen_for_wake_word()
     greet_user()
     run_assistant_loop()
+
